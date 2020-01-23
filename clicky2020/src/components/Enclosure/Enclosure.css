@@ -1,0 +1,14 @@
+.enclosure {
+    background: black;
+    background-image: url('https://cdn.wallpapersafari.com/49/93/lbhRK1.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
