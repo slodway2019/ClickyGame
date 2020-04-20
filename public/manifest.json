@@ -1,5 +1,5 @@
 {
-  "short_name": "Naruto Clicky Game",
+  "short_name": "Clicky Game",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -7,6 +7,7 @@
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
+  
   ],
   "start_url": ".",
   "display": "standalone",
