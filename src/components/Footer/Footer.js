@@ -5,7 +5,7 @@ function Footer() {
     return (
       <footer className="footer">
         <div className="bottom">
-          
+          This is Footer Component.
         </div>
       </footer>
     );
