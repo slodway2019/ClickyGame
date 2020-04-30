@@ -1,4 +1,3 @@
-
 import React, { Component } from "react";
 import CharacterCard from "./components/CharacterCard";
 import Nav from "./components/Nav";
@@ -26,7 +25,7 @@ class App extends Component {
     rightWrong: "",
     clicked: [],
   };
-
+  // Event Handler for the clicks
   handleClick = id => {
     if (this.state.clicked.indexOf(id) === -1) {
       this.handleIncrement();
