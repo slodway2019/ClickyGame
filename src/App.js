@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import CharacterCard from "./components/CharacterCard";
 import Nav from "./components/Nav";
+import Footer from "./components/Footer";
 import Enclosure from "./components/Enclosure";
 import Container from "./Container";
 import Row from "./Row";
@@ -93,6 +94,9 @@ class App extends Component {
             ))}
           </Row>
         </Container>
+        <Footer>
+          
+        </Footer>
       </Enclosure>
     );
   }
